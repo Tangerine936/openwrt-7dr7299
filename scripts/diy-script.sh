@@ -47,8 +47,8 @@ git clone --depth=1 https://github.com/4IceG/luci-app-mini-diskmanager package/l
 #luci-app-partexp
 git clone --depth=1 https://github.com/sirpdboy/luci-app-partexp package/luci-app-partexp
 
-#wolplus
-git_sparse_clone main https://github.com/VIKINGYFY/packages luci-app-wolplus
+#wolultra
+git_sparse_clone main https://github.com/VIKINGYFY/packages luci-app-wolultra
 
 #netspeedtest
 git clone --depth=1 https://github.com/sirpdboy/netspeedtest.git package/netspeedtest
